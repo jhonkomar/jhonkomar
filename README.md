@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Jhonando%20Komara&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=AI%20Automation%20Engineer%20%C2%B7%20Tulungagung,%20Indonesia&descSize=16&descAlignY=54&animation=fadeIn" width="100%" alt="Jhonando Komara — AI Automation Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Jhonando%20Komara&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=AI%20Automation%20Engineer%20%C2%B7%20Agents%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descSize=16&descAlignY=54&animation=fadeIn" width="100%" alt="Jhonando Komara — AI Automation Engineer" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=46&lines=I+design+agents+that+run+themselves.;From+rule-based+workflows+to+multi-agent+systems.;Currently+deep+in+R%26D+on+ReAct-style+reasoning." alt="I design agents that run themselves." />
 
@@ -10,11 +10,15 @@
 
 ## About
 
-Self-taught, based in **Tulungagung** — a small town most people wouldn't associate with AI development. Started building seriously in mid-2025, and haven't stopped since.
+I build automation that doesn't need babysitting.
 
-I work across the full spectrum of automation: from straightforward rule-based workflows to multi-agent systems and full LLM orchestration — picking whatever level of complexity the problem actually needs, not whatever's trendiest.
+Most "AI automation" falls apart the moment reality leaves the happy path. I'd rather ship a system that knows when to retry, when to escalate, and when to hand things back to a human — than a demo that only works on stage.
 
-> **From simple workflows to full agentic reasoning — I build whatever the problem actually needs.**
+That means matching the complexity to the problem instead of to the trend:
+
+- **Rule-based workflows** — when the logic is knowable and stable
+- **Routed LLM calls** — when the input is messy but the task is bounded
+- **Multi-agent + RAG** — when the work genuinely needs planning, memory and tools
 
 🔬 Currently deep in R&D on **ReAct-style reasoning agents** — going beyond static routing into real step-by-step reasoning.
 
