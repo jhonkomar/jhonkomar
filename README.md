@@ -71,12 +71,19 @@ I work across the full spectrum of automation: from straightforward rule-based w
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=jhonkomar&show_icons=true&hide=stars,issues,prs&hide_border=true&include_all_commits=true&theme=github_dark&title_color=58A6FF&icon_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api?username=jhonkomar&show_icons=true&hide=stars,issues,prs&hide_border=true&include_all_commits=true&theme=default&title_color=0969DA&icon_color=0969DA" alt="GitHub stats" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jhonkomar&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
+  <img src="https://streak-stats.demolab.com/?user=jhonkomar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" height="180" />
+</picture>
+
+<br><br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonkomar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonkomar&theme=default" alt="Top languages by repo" height="200" />
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkomar&layout=compact&langs_count=8&hide_border=true&theme=github_dark&title_color=58A6FF" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonkomar&layout=compact&langs_count=8&hide_border=true&theme=default&title_color=0969DA" alt="Top languages" height="165" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonkomar&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonkomar&theme=default" alt="Top languages by commit" height="200" />
 </picture>
 
 <br><br>
