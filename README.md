@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=210&section=header&text=Jhonando%20Komara&fontSize=44&fontColor=ffffff&fontAlignY=34&desc=AI%20Automation%20Engineer%20%C2%B7%20Agents%20%C2%B7%20RAG%20%C2%B7%20Multi-Agent%20Systems&descSize=16&descAlignY=54&animation=fadeIn" width="100%" alt="Jhonando Komara — AI Automation Engineer" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d0208,50:4a0e6b,100:ff7518&height=240&section=header&text=Jhonando%20Komara&fontSize=46&fontColor=ff7518&fontAlignY=30&desc=AI%20Automation%20Engineer&descSize=17&descAlignY=48&animation=fadeIn" width="100%" alt="Jhonando Komara — AI Automation Engineer" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=3400&pause=900&color=58A6FF&center=true&vCenter=true&width=760&height=46&lines=I+design+agents+that+run+themselves.;From+rule-based+workflows+to+multi-agent+systems.;Currently+deep+in+R%26D+on+ReAct-style+reasoning." alt="I design agents that run themselves." />
+<img src="https://readme-typing-svg.demolab.com?font=Creepster&size=27&duration=3600&pause=900&color=FF7518&center=true&vCenter=true&width=820&height=52&lines=I+design+agents+that+run+themselves.;They+keep+running+after+I+log+off.;Currently+raising+ReAct-style+reasoning+agents." alt="I design agents that run themselves." />
 
 </div>
 
 ---
 
-## About
+## 🎃 About
 
 I build automation that doesn't need babysitting.
 
@@ -20,11 +20,11 @@ That means matching the complexity to the problem instead of to the trend:
 - **Routed LLM calls** — when the input is messy but the task is bounded
 - **Multi-agent + RAG** — when the work genuinely needs planning, memory and tools
 
-🔬 Currently deep in R&D on **ReAct-style reasoning agents** — going beyond static routing into real step-by-step reasoning.
+🔮 Currently deep in R&D on **ReAct-style reasoning agents** — going beyond static routing into real step-by-step reasoning.
 
 ---
 
-## Stack
+## 🕸️ The Stack
 
 <div align="center">
 
@@ -32,18 +32,18 @@ That means matching the complexity to the problem instead of to the trend:
 
 <br><br>
 
-![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6E56CF?style=for-the-badge&logoColor=white)
-![Multi--Agent](https://img.shields.io/badge/Multi--Agent-0B7285?style=for-the-badge&logoColor=white)
-![Human-in-the-loop](https://img.shields.io/badge/Human--in--the--Loop-B45309?style=for-the-badge&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-5B21B6?style=for-the-badge&logo=langchain&logoColor=white)
+![n8n](https://img.shields.io/badge/n8n-C1440E?style=for-the-badge&logo=n8n&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-5B21B6?style=for-the-badge&logo=playwright&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-C1440E?style=for-the-badge)
+![Multi--Agent](https://img.shields.io/badge/Multi--Agent-5B21B6?style=for-the-badge)
+![Human-in-the-Loop](https://img.shields.io/badge/Human--in--the--Loop-C1440E?style=for-the-badge)
 
 </div>
 
 ---
 
-## Selected Work
+## ⚰️ Selected Work
 
 | Project | What it does | Built with |
 | :--- | :--- | :--- |
@@ -56,63 +56,47 @@ That means matching the complexity to the problem instead of to the trend:
 
 ---
 
-## Contribution Snake
+## 🐍 Feeding Time
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jhonkomar/jhonkomar/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jhonkomar/jhonkomar/output/github-snake.svg" />
-  <img src="https://raw.githubusercontent.com/jhonkomar/jhonkomar/output/github-snake.svg" alt="Contribution snake animation" />
-</picture>
+<img src="https://raw.githubusercontent.com/jhonkomar/jhonkomar/output/github-snake.svg" alt="Snake eating my contribution graph" width="100%" />
 
 </div>
 
 ---
 
-## Activity
+## 👻 Still Haunting
 
 <div align="center">
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com/?user=jhonkomar&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D" />
-  <img src="https://streak-stats.demolab.com/?user=jhonkomar&theme=default&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" height="180" />
-</picture>
+<img src="https://streak-stats.demolab.com/?user=jhonkomar&background=0D0208&border=FF7518&stroke=FF7518&ring=FF7518&fire=FF7518&currStreakNum=FF7518&sideNums=E6E6E6&currStreakLabel=A855F7&sideLabels=A855F7&dates=6E7681&date_format=j%20M%5B%20Y%5D" alt="Contribution streak" height="180" />
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonkomar&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonkomar&theme=default" alt="Top languages by repo" height="200" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonkomar&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonkomar&theme=default" alt="Top languages by commit" height="200" />
-</picture>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jhonkomar&theme=dracula" alt="Top languages by repo" height="200" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jhonkomar&theme=dracula" alt="Top languages by commit" height="200" />
 
 <br><br>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph?username=jhonkomar&theme=github-compact&hide_border=true&area=true&custom_title=Contribution%20Graph" />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkomar&theme=github-light&hide_border=true&area=true&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
-</picture>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=jhonkomar&bg_color=0d0208&color=ff7518&line=ff7518&point=ffffff&area=true&area_color=6b21a8&title_color=ff7518&custom_title=Contribution%20Graph" alt="Contribution graph" width="100%" />
 
 </div>
 
 ---
 
-## Let's talk
+## 🦇 Summon Me
 
 <div align="center">
 
 Got a workflow that needs an agent? Let's talk about what you're trying to automate.
 
 <!-- SOCIALS: isi handle asli, lalu uncomment
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HANDLE)
-[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HANDLE)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-5B21B6?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/HANDLE)
+[![X](https://img.shields.io/badge/X-0D0208?style=for-the-badge&logo=x&logoColor=white)](https://x.com/HANDLE)
+[![Email](https://img.shields.io/badge/Email-C1440E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:EMAIL)
 -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%" alt="" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ff7518,50:4a0e6b,100:0d0208&height=130&section=footer" width="100%" alt="" />
 
 </div>
